@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NPradella
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning how to code in PHP.
+- 🌱 I’m currently learning HTML and CSS.
+- 
 
 
 <!---
